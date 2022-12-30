@@ -3,3 +3,18 @@ body, h1, h2, ul, li, p, dd, dt, dl {
     padding: 0px;
 }
 
+.image_logo_header {
+    position: absolute;
+    width: 111.17px;
+    height: 27.68px;
+    left: 165.79px;
+    top: 38.75px
+}
+
+.image_get_started_header {
+    position: absolute;
+    width: 164px;
+    height: 56px;
+    top: 24px;
+    left: 1108px;
+}
